@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="KuGouSlideMenu">
+        <!--菜单与屏幕右边的距离-->
+        <attr name="menuRightMargin" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="QQSlider">
+        <attr name="qqMenuRightMargin" format="dimension"/>
+    </declare-styleable>
+    
+</resources>
